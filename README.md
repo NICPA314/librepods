@@ -113,16 +113,6 @@ A huge thank you to everyone supporting the project!
 - @timgromeyer for making the first version of the linux app
 - @hackclub for hosting [High Seas](https://highseas.hackclub.com) and [Low Skies](https://low-skies.hackclub.com)!
 
-## Star History
-
-<a href="https://www.star-history.com/#kavishdevar/librepods&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kavishdevar/librepods&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kavishdevar/librepods&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kavishdevar/librepods&type=date&legend=top-left" />
- </picture>
-</a>
-
 # License
 
 LibrePods - AirPods liberated from Apple’s ecosystem
